@@ -13,7 +13,7 @@ To run this project locally:
 
  Clone this repository: 
  
-    https://github.com/farhan-11606/checkout_website.git
+    git clone https://github.com/farhan-11606/checkout_website.git
 
 
  Navigate to the project for:
