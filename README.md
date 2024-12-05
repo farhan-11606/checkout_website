@@ -11,18 +11,11 @@ Be assured of a quick, trouble-free, and secure checkout!
 
 To run this project locally:
 
-    Clone this repository:
+    Clone this repository:https://github.com/farhan-11606/checkout_website.git
+    Navigate to the project folder: cd checkout_website
+    Open index.html in your browser:
 
-https://github.com/farhan-11606/checkout_website.git
-
-
-Navigate to the project folder:
-
-cd checkout_website
-
-Open index.html in your browser:
-
-start index.html # Windows
-open index.html  # macOS
-xdg-open index.html # For Linux
+    start index.html # Windows
+    open index.html  # macOS
+    xdg-open index.html # For Linux
 
