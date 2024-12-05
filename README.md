@@ -16,12 +16,13 @@ To run this project locally:
     https://github.com/farhan-11606/checkout_website.git
 
 
-
  Navigate to the project for:
- cd checkout_website
-   
+                               
+    cd checkout_website
+
+
     
-    Open index.html in your browser:
+   Open index.html in your browser:
 
     start index.html # Windows
     open index.html  # macOS
