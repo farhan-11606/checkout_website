@@ -13,11 +13,12 @@ To run this project locally:
 
     Clone this repository:
 
-    git clone https://github.com/Osman-Kahraman/wildlife-website.git
+https://github.com/farhan-11606/checkout_website.git
+
 
 Navigate to the project folder:
 
-cd wildlife-website
+cd checkout_website
 
 Open index.html in your browser:
 
